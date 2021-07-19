@@ -1,5 +1,17 @@
 # ***CURRICULUM VITAE***
+
+
+
+
 ![](C:\code\rsschool-cv\foto.jpg)
+
+
+
+
+
+
+
+
 ## **Name**: *Artsiom*
 ## **Surname**: *Yakubouski*
 ## **Date of birth**: *27/02/1990*
