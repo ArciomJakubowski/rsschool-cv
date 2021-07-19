@@ -9,3 +9,29 @@
 ## **e-mail**: *yakubouskiartsiom@gmail.com*
 ---
 ## **Aducation**
+## **2010-2014** *MSAC*
+## **2016-2019** *BNTU*
+---
+## **Languege**
+* Polish
+* English 
+* Russian
+## **Code**
+``` <table>
+ <thead>
+    <tr>
+    <th>мама</th>
+    <th>папа</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td>бабушка</td>
+    <td>дедушка</td>
+    </tr>
+  </tbody>
+  <tr>
+  <td>братья</td>
+  <td>сестры</td>
+  </tr>
+</table>```
