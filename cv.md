@@ -1,2 +1,2 @@
 # ***Jakubowski Artsiom Andreevich***
-[](C:\image\foto.jpg)
+![](C:\image\foto.jpg)
