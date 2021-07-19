@@ -3,7 +3,7 @@
 
 
 
-![](C:\image\foto.jpg)
+![](C:\image\foto.png)
 
 
 
