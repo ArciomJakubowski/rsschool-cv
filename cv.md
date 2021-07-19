@@ -12,7 +12,7 @@
 ## **2010-2014** *MSAC*
 ## **2016-2019** *BNTU*
 ---
-## **Languege**
+## **Language**
 * Polish
 * English 
 * Russian
@@ -34,4 +34,4 @@
   <td>братья</td>
   <td>сестры</td>
   </tr>
-</table>```
+  </table> ```
