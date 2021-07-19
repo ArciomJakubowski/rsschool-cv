@@ -17,7 +17,8 @@
 * English 
 * Russian
 ## **Code**
-``` <table>
+``` html
+<table>
  <thead>
     <tr>
     <th>мама</th>
@@ -34,4 +35,5 @@
   <td>братья</td>
   <td>сестры</td>
   </tr>
-  </table> ```
+  </table> 
+  ```
