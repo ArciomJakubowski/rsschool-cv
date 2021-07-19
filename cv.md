@@ -3,7 +3,7 @@
 
 
 
-![](C:\image\foto.png)
+![](https://github.com/ArciomJakubowski/rsschool-cv/blob/gh-pages/image-cv/foto.png)
 
 
 
