@@ -1,0 +1,53 @@
+.body{
+  background-color: #fff8dc;
+    text-align: center;
+    font-style: italic;
+}
+
+.img{
+border-radius: 50%;
+}
+.info{
+    text-decoration: underline ;
+}
+.skills{
+    text-decoration: underline;
+}
+.language{
+    text-decoration: underline;
+}
+.code{
+    text-decoration: underline;
+}
+profil-info{
+    margin bottom: 2em;
+}
+
+.language-info{
+        
+    width: 960px;
+    margin: 0 auto;
+    text-align: center;}
+    .language-info ul {
+        display: inline-block;
+    }
+   
+    .Skills-info{
+
+    width: 960px;
+    margin: 0 auto;
+    text-align: center;}
+    .Skills-info ul {
+        display: inline-block;
+    }
+.other-info{
+    text-align: left;
+    vertical-align:top;
+    
+}
+.time-git{
+    text-align: right ;
+    vertical-align: bottom;
+    position: relative;
+    top: 60px;
+}
